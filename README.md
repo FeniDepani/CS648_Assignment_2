@@ -1,2 +1,2 @@
-# Assignment2
- Assignment2 of Coursework CS 648
+# CS648_Assignment_1
+ This is an assignment of CS-648 C1 - Modern Web Development Framework.
